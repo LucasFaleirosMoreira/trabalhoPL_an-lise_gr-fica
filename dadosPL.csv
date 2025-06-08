@@ -1,9 +1,0 @@
-N_Funcionarios;N_min_Funcionarios;Folgas_Atendidas;Minimo_folgas;Funcionarios_minimo_folgas;Maximo_folgas;Funcionarios_maximo_folgas;Total_Folgas_Requisitadas;Total_Folgas_Atendidas
-20;15;53.75;1;4;3;7;80;43
-25;19;55.00;1;3;4;1;100;55
-30;23;59.17;1;2;4;1;120;71
-35;27;52.86;1;4;3;8;140;74
-40;31;54.37;1;2;4;1;160;87
-45;35;53.33;1;6;3;12;180;96
-50;39;56.00;1;6;4;1;200;112
-60;47;56.67;1;5;4;3;240;136
