@@ -1,0 +1,9 @@
+N_Funcionarios;Folgas_Atendidas;Min_folgas;Funcionario_min_folgas;Max_folgas;Funcionario_max_folgas
+20-15;13.75;0;12;3;1
+25-19;15.00;0;13;2;3
+30-23;13.33;0;18;3;2
+35-27;17.14;0;14;2;3
+40-31;19.38;0;16;2;7
+45-35;17.22;0;21;2;7
+50-39;15.50;0;28;3;2
+60-47;17.50;0;28;3;1
